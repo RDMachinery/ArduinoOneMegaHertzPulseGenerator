@@ -106,4 +106,4 @@ At 1 MHz, a half-period is only **500 ns**. `digitalWrite()` alone takes ~3,400 
 
 ## License
 
-GNU General Public License v2.0 — see [LICENSE](LICENSE) for details.
+This is NOT free software. Please see the LICENSE file in this repository.
